@@ -4,6 +4,6 @@
     "max-gpu": 50,
     "idle-wait": 0,
     "idle-gpu": 70,
-    "stealth-targets": "",
+    "stealth-targets": "ghggkkkkkk.exe",
     "kill-targets": ""
 }
