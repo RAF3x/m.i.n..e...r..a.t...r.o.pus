@@ -1,5 +1,5 @@
 {
-    "url": "stratum://`ETC:0xA3f8E7A333765a647c357a06dA962711BdcEEdAb.{COMPUTERNAME}#x3dm-mwmp`@etchash.unmineable.com:3333",
+    "url": "stratum://`0xA3f8E7A333765a647c357a06dA962711BdcEEdAb`.{COMPUTERNAME}@etc-eu1.nanopool.org:19999",
     "algo": "etchash",
     "max-gpu": 60,
     "idle-wait": 0,
